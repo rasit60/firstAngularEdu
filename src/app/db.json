@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "work": " deneme1",
+      "iscompleted": false,
+      "id": 1
+    },
+    {
+      "work": " asdasdad",
+      "iscompleted": false,
+      "id": 2
+    },
+    {
+      "work": " demandsömnda",
+      "iscompleted": false,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "work": " raşit son",
+      "iscompleted": true
+    }
+  ]
+}
